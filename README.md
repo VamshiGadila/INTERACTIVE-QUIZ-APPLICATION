@@ -16,4 +16,4 @@ DESCRIPTION ABOUT TASK : INTERACTIVE-QUIZ-APPLICATION is an interactive web-base
 
 OUTPUT :
 
-  ![Image](https://github.com/user-attachments/assets/e2b4d84d-f046-4b01-a8bf-2eea8e34bb31)
+ 
